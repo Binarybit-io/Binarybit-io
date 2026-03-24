@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GOPI RAJ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binarybit-io&label=Profile%20views&color=0e75b6&style=flat" alt="binarybit-io" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Binarybit-io&label=Profile%20views&color=0e75b6&style=flat" alt="Binarybit-io" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binarybit-io" alt="binarybit-io" /></a> </p>
 
