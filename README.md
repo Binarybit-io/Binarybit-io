@@ -36,7 +36,7 @@ I build visual-first digital experiences. From high-octane cinematic edits to mo
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://gopiraj.com" target="_blank">
+  <a href="https://gopiraj-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-4169E1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:contact@gopiraj.com" target="_blank">
