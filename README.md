@@ -1,4 +1,4 @@
-# Hi there! I'm [Gopi Raj](https://gopiraj.com) 👋
+# Hi there! I'm [Gopi Raj]([https://gopiraj.com](https://gopiraj-portfolio.vercel.app/)) 👋
 
 ![Gopi Raj Profile Banner](https://raw.githubusercontent.com/Binarybit-io/Binarybit-io/main/profile-banner.png)
 
